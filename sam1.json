@@ -1,0 +1,432 @@
+[
+  {
+    "displayFeName_en": "Party Head Quarters",
+    "displayFeName_ta": "தலைமை",
+    "displayFeLabel_en": "",
+    "displayFeLabel_ta": "",
+    "nodeLabel_en": "Root",
+    "nodeLabel_ta": "ரூட்",
+    "id": "ST-33",
+    "parentId": "ST-33"
+  },
+  {
+    "displayFeName_en": "Delta",
+    "displayFeName_ta": "டெல்டா",
+    "displayFeLabel_en": "Districts",
+    "displayFeLabel_ta": "மாவட்டங்கள்",
+    "nodeLabel_en": "Regions",
+    "nodeLabel_ta": "பிரதேசங்கள்",
+    "id": "RC-3",
+    "parentId": "ST-33"
+  },
+  {
+    "displayFeName_en": "Northern",
+    "displayFeName_ta": "வடக்கு",
+    "displayFeLabel_en": "Districts",
+    "displayFeLabel_ta": "மாவட்டங்கள்",
+    "nodeLabel_en": "Regions",
+    "nodeLabel_ta": "பிரதேசங்கள்",
+    "id": "RC-1",
+    "parentId": "ST-33"
+  },
+  {
+    "displayFeName_en": "Western",
+    "displayFeName_ta": "மேற்கு",
+    "displayFeLabel_en": "Districts",
+    "displayFeLabel_ta": "மாவட்டங்கள்",
+    "nodeLabel_en": "Regions",
+    "nodeLabel_ta": "பிரதேசங்கள்",
+    "id": "RC-2",
+    "parentId": "ST-33"
+  },
+  {
+    "displayFeName_en": "Southern",
+    "displayFeName_ta": "தெற்கு",
+    "displayFeLabel_en": "Districts",
+    "displayFeLabel_ta": "மாவட்டங்கள்",
+    "nodeLabel_en": "Regions",
+    "nodeLabel_ta": "பிரதேசங்கள்",
+    "id": "RC-4",
+    "parentId": "ST-33"
+  },
+  {
+    "displayFeName_en": "Ariyalur",
+    "displayFeName_ta": "அரியலூர்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-610",
+    "parentId": "RC-3"
+  },
+  {
+    "displayFeName_en": "Chengalpattu",
+    "displayFeName_ta": "செங்கல்பட்டு",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-730",
+    "parentId": "RC-1"
+  },
+  {
+    "displayFeName_en": "Chennai",
+    "displayFeName_ta": "சென்னை",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-568",
+    "parentId": "RC-1"
+  },
+  {
+    "displayFeName_en": "Coimbatore",
+    "displayFeName_ta": "கோயம்புத்தூர்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-569",
+    "parentId": "RC-2"
+  },
+  {
+    "displayFeName_en": "Cuddalore",
+    "displayFeName_ta": "கடலூர்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-570",
+    "parentId": "RC-1"
+  },
+  {
+    "displayFeName_en": "Dharmapuri",
+    "displayFeName_ta": "தருமபுரி",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-571",
+    "parentId": "RC-2"
+  },
+  {
+    "displayFeName_en": "Dindigul",
+    "displayFeName_ta": "திண்டுக்கல்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-572",
+    "parentId": "RC-4"
+  },
+  {
+    "displayFeName_en": "Erode",
+    "displayFeName_ta": "ஈரோடு",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-573",
+    "parentId": "RC-2"
+  },
+  {
+    "displayFeName_en": "Kallakurichi",
+    "displayFeName_ta": "கள்ளக்குறிச்சி",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-729",
+    "parentId": "RC-1"
+  },
+  {
+    "displayFeName_en": "Kancheepuram",
+    "displayFeName_ta": "காஞ்சிபுரம்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-574",
+    "parentId": "RC-1"
+  },
+  {
+    "displayFeName_en": "Kanniyakumari",
+    "displayFeName_ta": "கன்னியாகுமரி",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-575",
+    "parentId": "RC-4"
+  },
+  {
+    "displayFeName_en": "Karur",
+    "displayFeName_ta": "கரூர்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-576",
+    "parentId": "RC-3"
+  },
+  {
+    "displayFeName_en": "Krishnagiri",
+    "displayFeName_ta": "கிருஷ்ணகிரி",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-577",
+    "parentId": "RC-2"
+  },
+  {
+    "displayFeName_en": "Madurai",
+    "displayFeName_ta": "மதுரை",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-578",
+    "parentId": "RC-4"
+  },
+  {
+    "displayFeName_en": "Mayiladuthurai",
+    "displayFeName_ta": "மயிலாடுதுறை",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-735",
+    "parentId": "RC-3"
+  },
+  {
+    "displayFeName_en": "Nagapattinam",
+    "displayFeName_ta": "நாகப்பட்டினம்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-579",
+    "parentId": "RC-3"
+  },
+  {
+    "displayFeName_en": "Namakkal",
+    "displayFeName_ta": "நாமக்கல்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-580",
+    "parentId": "RC-2"
+  },
+  {
+    "displayFeName_en": "Nilgiris",
+    "displayFeName_ta": "நீலகிரி",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-587",
+    "parentId": "RC-2"
+  },
+  {
+    "displayFeName_en": "Perambalur",
+    "displayFeName_ta": "பெரம்பலூர்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-581",
+    "parentId": "RC-3"
+  },
+  {
+    "displayFeName_en": "Pudukkottai",
+    "displayFeName_ta": "புதுக்கோட்டை",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-582",
+    "parentId": "RC-3"
+  },
+  {
+    "displayFeName_en": "Ramanathapuram",
+    "displayFeName_ta": "ராமநாதபுரம்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-583",
+    "parentId": "RC-4"
+  },
+  {
+    "displayFeName_en": "Ranipet",
+    "displayFeName_ta": "ராணிப்பேட்டை",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-731",
+    "parentId": "RC-1"
+  },
+  {
+    "displayFeName_en": "Salem",
+    "displayFeName_ta": "சேலம்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-584",
+    "parentId": "RC-2"
+  },
+  {
+    "displayFeName_en": "Sivaganga",
+    "displayFeName_ta": "சிவகங்கை",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-585",
+    "parentId": "RC-4"
+  },
+  {
+    "displayFeName_en": "Tenkasi",
+    "displayFeName_ta": "தென்காசி",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-733",
+    "parentId": "RC-4"
+  },
+  {
+    "displayFeName_en": "Thanjavur",
+    "displayFeName_ta": "தஞ்சாவூர்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-586",
+    "parentId": "RC-3"
+  },
+  {
+    "displayFeName_en": "Theni",
+    "displayFeName_ta": "தேனி",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-588",
+    "parentId": "RC-4"
+  },
+  {
+    "displayFeName_en": "Thiruvarur",
+    "displayFeName_ta": "திருவாரூர்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-590",
+    "parentId": "RC-3"
+  },
+  {
+    "displayFeName_en": "Thoothukudi",
+    "displayFeName_ta": "தூத்துக்குடி",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-594",
+    "parentId": "RC-4"
+  },
+  {
+    "displayFeName_en": "Tiruchirappalli",
+    "displayFeName_ta": "திருச்சிராப்பள்ளி",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-591",
+    "parentId": "RC-3"
+  },
+  {
+    "displayFeName_en": "Tirunelveli",
+    "displayFeName_ta": "திருநெல்வேலி",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-592",
+    "parentId": "RC-4"
+  },
+  {
+    "displayFeName_en": "Tirupattur",
+    "displayFeName_ta": "திருப்பத்தூர்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-732",
+    "parentId": "RC-1"
+  },
+  {
+    "displayFeName_en": "Tiruppur",
+    "displayFeName_ta": "திருப்பூர்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-634",
+    "parentId": "RC-2"
+  },
+  {
+    "displayFeName_en": "Tiruvallur",
+    "displayFeName_ta": "திருவள்ளூர்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-589",
+    "parentId": "RC-1"
+  },
+  {
+    "displayFeName_en": "Tiruvannamalai",
+    "displayFeName_ta": "திருவண்ணாமலை",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-593",
+    "parentId": "RC-1"
+  },
+  {
+    "displayFeName_en": "Vellore",
+    "displayFeName_ta": "வேலூர்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-595",
+    "parentId": "RC-1"
+  },
+  {
+    "displayFeName_en": "Viluppuram",
+    "displayFeName_ta": "விழுப்புரம்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-596",
+    "parentId": "RC-1"
+  },
+  {
+    "displayFeName_en": "Virudhunagar",
+    "displayFeName_ta": "விருதுநகர்",
+    "displayFeLabel_en": "District",
+    "displayFeLabel_ta": "மாவட்டம்",
+    "nodeLabel_en": "District",
+    "nodeLabel_ta": "மாவட்டம்",
+    "id": "DC-597",
+    "parentId": "RC-4"
+  }
+]
